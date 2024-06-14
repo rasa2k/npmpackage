@@ -1,0 +1,24 @@
+{
+  "name": "@rasa2k/is-npm-package",
+  "version": "1.0.1",
+  "description": "Is this a npm package?",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasa2k/npmpackage.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "rasa2k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasa2k/npmpackage/issues"
+  },
+  "homepage": "https://github.com/rasa2k/npmpackage#readme"
+}
