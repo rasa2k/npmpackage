@@ -1,6 +1,6 @@
 {
   "name": "@rasa2k/is-npm-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Is this a npm package?",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rasa2k/npmpackage.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "npm",
